@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>just the first demo test to understand the folder structure</description>
+   <name>firstDemoTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08629ea0-01c0-438b-98a7-86fb4043d20e</testCaseGuid>
+</TestCaseEntity>
